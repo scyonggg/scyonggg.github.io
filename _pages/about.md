@@ -23,7 +23,7 @@ I am an AI research engineer with a passion for leveraging artificial intelligen
 
 
 # 🔥 News
-- *2024.11*: &nbsp;🎉🎉 ZIM: Zero-Shot Image Matting for Anything has been released to arXiv.
+- *2024.11*: &nbsp;🎉🎉 ZIM has been released.
 - *2023.07*: &nbsp;🎉🎉 EGformer has been accepted at ICCV 2023.
 - *2022.06*: &nbsp;🎉🎉 Presented a real-time frame interpolation demonstration at AICAS 2022.
 
