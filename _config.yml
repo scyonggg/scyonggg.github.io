@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Chanyong Shin"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "AI research engineer"
+  bio              :
   location         : "Seoul, Republic of Korea"
   employer         :
   pubmed           : 
