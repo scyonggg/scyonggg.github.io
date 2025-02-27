@@ -47,12 +47,12 @@ I am an AI research engineer with a passion for leveraging artificial intelligen
     **Chanyong Shin**, Chae Eun Rhee <br>
     IEEE International Conference on Electronics, Information, and Communication (ICEIC), 2023 <br>
 
-
 # 🖥️ Academic Demonstrations
 
 * ## Live Demo: Memory-Efficient Hardware Design for a Real-Time Convolutional Encoder-Decoder Network
     Min-Wu Jeong, **Chanyong Shin**, Chae Eun Rhee <br>
     IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS), 2022 <br>
+    [[Paper]](../images/Live_Demo_Memory-Efficient_Hardware_Design_for_a_Real-Time_Convolutional_Encoder-Decoder_Network.pdf)
 
 # 📖 Educations
 - *2022.02 - 2024.02*, M.S. in Electrical and Computer Engineering, Inha University.
