@@ -27,6 +27,14 @@ I am an AI research engineer with a passion for leveraging artificial intelligen
 - *2023.07*: &nbsp;🎉🎉 EGformer has been accepted at ICCV 2023.
 - *2022.06*: &nbsp;🎉🎉 Presented a real-time frame interpolation demonstration at AICAS 2022.
 
+# 🏢 Work Experiences
+- *2024.02 - 2024.08*, Research intern in NAVER Cloud
+- *2022.01 - 2022.02*, Research intern in ETRI
+
+# 📖 Educations
+- *2022.02 - 2024.02*, M.S. in Electrical and Computer Engineering, Inha University.
+- *2016.02 - 2022.02*, B.S. in Electronics Engineering, Inha University.
+
 # 📝 Publications 
 
 * ## ZIM: Zero-Shot Image Matting for Anything <br>
@@ -53,11 +61,3 @@ I am an AI research engineer with a passion for leveraging artificial intelligen
     Min-Wu Jeong, **Chanyong Shin**, Chae Eun Rhee <br>
     IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS), 2022 <br>
     [[Paper]](../images/Live_Demo_Memory-Efficient_Hardware_Design_for_a_Real-Time_Convolutional_Encoder-Decoder_Network.pdf)
-
-# 📖 Educations
-- *2022.02 - 2024.02*, M.S. in Electrical and Computer Engineering, Inha University.
-- *2016.02 - 2022.02*, B.S. in Electronics Engineering, Inha University.
-
-# 🏢 Work Experiences
-- *2024.02 - 2024.08*, Research intern in NAVER Cloud
-- *2022.01 - 2022.02*, Research intern in ETRI
